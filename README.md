@@ -1,2 +1,3 @@
 # Emotion_Detection_Using_Audio
 Classifies 7 emotions from TESS audio dataset with 72% accuracy using LSTM (Keras) and MFCC features (librosa). Includes preprocessing and visualization with pandas.
+This project implements a deep learning model to classify emotions from audio clips in the TESS dataset. Using librosa for MFCC feature extraction and Keras for an LSTM-based neural network, it achieves 72% validation accuracy across 7 emotion categories. The pipeline includes data preprocessing with pandas, model training, and performance visualization. Ideal for exploring audio-based emotion detection and sequential data modeling.
